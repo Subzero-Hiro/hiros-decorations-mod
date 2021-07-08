@@ -234,20 +234,29 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "black_and_green_vase"
+    },
+    {
+      "name": "Vase",
+      "type": "gui",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vase"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "block.hirosdecorationmod.birch_dining_chair": "Birch Dining Chair",
       "block.hirosdecorationmod.dark_oak_dining_chair": "Dark Oak Dining Chair",
+      "block.hirosdecorationmod.birch_dining_chair": "Birch Dining Chair",
       "block.hirosdecorationmod.spruce_dining_chair": "Spruce Dining Chair",
       "block.hirosdecorationmod.jungle_dining_chair": "Jungle Dining Chair",
       "block.hirosdecorationmod.warped_coffee_table": "Warped Coffee Table",
       "itemGroup.tabtable_decorations": "Tables",
-      "block.hirosdecorationmod.jungle_coffee_table": "Jungle Coffee Table",
       "block.hirosdecorationmod.white_and_purpla_vase": "White And Purple Vase",
+      "block.hirosdecorationmod.jungle_coffee_table": "Jungle Coffee Table",
       "block.hirosdecorationmod.oak_coffe_table": "Oak Coffee Table",
       "itemGroup.tabwall_decorations": "Wall Deco",
       "block.hirosdecorationmod.crimson_coffee_table": "Crimson Coffee Table",
