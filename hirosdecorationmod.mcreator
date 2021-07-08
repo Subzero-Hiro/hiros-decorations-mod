@@ -8,7 +8,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "chair_decorations"
+      "registry_name": "chair_decorations",
+      "path": "~/Chairs"
     },
     {
       "name": "WallDecorations",
@@ -17,7 +18,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "wall_decorations"
+      "registry_name": "wall_decorations",
+      "path": "~/WallDecorations"
     },
     {
       "name": "OakDiningChair",
@@ -26,7 +28,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "oak_dining_chair"
+      "registry_name": "oak_dining_chair",
+      "path": "~/Chairs"
     },
     {
       "name": "BirchDiningChair",
@@ -35,7 +38,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "birch_dining_chair"
+      "registry_name": "birch_dining_chair",
+      "path": "~/Chairs"
     },
     {
       "name": "DarkOakDiningChair",
@@ -44,7 +48,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "dark_oak_dining_chair"
+      "registry_name": "dark_oak_dining_chair",
+      "path": "~/Chairs"
     },
     {
       "name": "AcaciaDiningChair",
@@ -53,7 +58,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "acacia_dining_chair"
+      "registry_name": "acacia_dining_chair",
+      "path": "~/Chairs"
     },
     {
       "name": "SpruceDiningChair",
@@ -62,7 +68,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "spruce_dining_chair"
+      "registry_name": "spruce_dining_chair",
+      "path": "~/Chairs"
     },
     {
       "name": "JungleDiningChair",
@@ -71,7 +78,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "jungle_dining_chair"
+      "registry_name": "jungle_dining_chair",
+      "path": "~/Chairs"
     },
     {
       "name": "WarpedDiningChair",
@@ -80,7 +88,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "warped_dining_chair"
+      "registry_name": "warped_dining_chair",
+      "path": "~/Chairs"
     },
     {
       "name": "CrimsonDiningChair",
@@ -89,7 +98,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "crimson_dining_chair"
+      "registry_name": "crimson_dining_chair",
+      "path": "~/Chairs"
     },
     {
       "name": "TableDecorations",
@@ -98,7 +108,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "table_decorations"
+      "registry_name": "table_decorations",
+      "path": "~/Tables"
     },
     {
       "name": "OakCoffeTable",
@@ -107,7 +118,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "oak_coffe_table"
+      "registry_name": "oak_coffe_table",
+      "path": "~/Tables"
     },
     {
       "name": "BirchCoffeeTable",
@@ -116,7 +128,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "birch_coffee_table"
+      "registry_name": "birch_coffee_table",
+      "path": "~/Tables"
     },
     {
       "name": "DarkOakCoffeeTable",
@@ -125,7 +138,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "dark_oak_coffee_table"
+      "registry_name": "dark_oak_coffee_table",
+      "path": "~/Tables"
     },
     {
       "name": "AcaciaCoffeeTable",
@@ -134,7 +148,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "acacia_coffee_table"
+      "registry_name": "acacia_coffee_table",
+      "path": "~/Tables"
     },
     {
       "name": "SpruceCoffeeTable",
@@ -143,7 +158,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "spruce_coffee_table"
+      "registry_name": "spruce_coffee_table",
+      "path": "~/Tables"
     },
     {
       "name": "JungleCoffeeTable",
@@ -152,7 +168,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "jungle_coffee_table"
+      "registry_name": "jungle_coffee_table",
+      "path": "~/Tables"
     },
     {
       "name": "WarpedCoffeeTable",
@@ -161,7 +178,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "warped_coffee_table"
+      "registry_name": "warped_coffee_table",
+      "path": "~/Tables"
     },
     {
       "name": "CrimsonCoffeeTable",
@@ -170,7 +188,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "crimson_coffee_table"
+      "registry_name": "crimson_coffee_table",
+      "path": "~/Tables"
     },
     {
       "name": "PotteryDecorations",
@@ -179,7 +198,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "pottery_decorations"
+      "registry_name": "pottery_decorations",
+      "path": "~/Pottery"
     },
     {
       "name": "WhiteAndYellowVase",
@@ -188,7 +208,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "white_and_yellow_vase"
+      "registry_name": "white_and_yellow_vase",
+      "path": "~/Pottery"
     },
     {
       "name": "WhiteAndBlueVase",
@@ -197,7 +218,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "white_and_blue_vase"
+      "registry_name": "white_and_blue_vase",
+      "path": "~/Pottery"
     },
     {
       "name": "WhiteAndPurplaVase",
@@ -206,7 +228,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "white_and_purpla_vase"
+      "registry_name": "white_and_purpla_vase",
+      "path": "~/Pottery"
     },
     {
       "name": "WhiteAndOrangeVase",
@@ -215,7 +238,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "white_and_orange_vase"
+      "registry_name": "white_and_orange_vase",
+      "path": "~/Pottery"
     },
     {
       "name": "BlackAndOrangeVase",
@@ -224,7 +248,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "black_and_orange_vase"
+      "registry_name": "black_and_orange_vase",
+      "path": "~/Pottery"
     },
     {
       "name": "BlackAndGreenVase",
@@ -233,7 +258,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "black_and_green_vase"
+      "registry_name": "black_and_green_vase",
+      "path": "~/Pottery"
     },
     {
       "name": "Vase",
@@ -242,7 +268,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "vase"
+      "registry_name": "vase",
+      "path": "~/Pottery"
     },
     {
       "name": "Toys",
@@ -251,7 +278,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "toys"
+      "registry_name": "toys",
+      "path": "~/Toys"
     },
     {
       "name": "CreeperPlush",
@@ -260,23 +288,67 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "creeper_plush"
+      "registry_name": "creeper_plush",
+      "path": "~/Toys"
+    },
+    {
+      "name": "Technology",
+      "type": "tab",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "technology",
+      "path": "~/Technology"
+    },
+    {
+      "name": "LaptopOpen",
+      "type": "block",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "laptop_open_aero",
+      "path": "~/Technology"
+    },
+    {
+      "name": "LaptopOpenCpu",
+      "type": "block",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "laptop_open_cpu",
+      "path": "~/Technology"
+    },
+    {
+      "name": "LaptopOpenAero2",
+      "type": "block",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "laptop_open_aero_2",
+      "path": "~/Technology"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "block.hirosdecorationmod.birch_dining_chair": "Birch Dining Chair",
       "block.hirosdecorationmod.dark_oak_dining_chair": "Dark Oak Dining Chair",
+      "block.hirosdecorationmod.birch_dining_chair": "Birch Dining Chair",
+      "block.hirosdecorationmod.laptop_open_cpu": "Laptop Open (Aero design)",
+      "block.hirosdecorationmod.laptop_open_aero_2": "Laptop Open (Aero design)",
       "block.hirosdecorationmod.spruce_dining_chair": "Spruce Dining Chair",
       "block.hirosdecorationmod.jungle_dining_chair": "Jungle Dining Chair",
       "block.hirosdecorationmod.warped_coffee_table": "Warped Coffee Table",
       "itemGroup.tabtable_decorations": "Tables",
-      "block.hirosdecorationmod.jungle_coffee_table": "Jungle Coffee Table",
       "block.hirosdecorationmod.white_and_purpla_vase": "White And Purple Vase",
+      "block.hirosdecorationmod.jungle_coffee_table": "Jungle Coffee Table",
       "block.hirosdecorationmod.oak_coffe_table": "Oak Coffee Table",
       "itemGroup.tabwall_decorations": "Wall Deco",
+      "block.hirosdecorationmod.laptop_open_aero": "Laptop Open (Aero design)",
       "block.hirosdecorationmod.crimson_coffee_table": "Crimson Coffee Table",
       "block.hirosdecorationmod.birch_coffee_table": "Birch Coffee Table",
       "block.hirosdecorationmod.dark_oak_coffee_table": "Dark Oak Coffee Table",
@@ -287,6 +359,7 @@
       "block.hirosdecorationmod.white_and_blue_vase": "White And Blue Vase",
       "block.hirosdecorationmod.black_and_orange_vase": "Black And Orange Vase",
       "itemGroup.tabpottery_decorations": "Pottery",
+      "itemGroup.tabtechnology": "Technology",
       "block.hirosdecorationmod.creeper_plush": "Creeper Plush",
       "itemGroup.tabchair_decorations": "Chairs",
       "block.hirosdecorationmod.white_and_yellow_vase": "White And Yellow Vase",
@@ -299,7 +372,32 @@
   },
   "foldersRoot": {
     "name": "~",
-    "children": []
+    "children": [
+      {
+        "name": "Chairs",
+        "children": []
+      },
+      {
+        "name": "WallDecorations",
+        "children": []
+      },
+      {
+        "name": "Tables",
+        "children": []
+      },
+      {
+        "name": "Pottery",
+        "children": []
+      },
+      {
+        "name": "Toys",
+        "children": []
+      },
+      {
+        "name": "Technology",
+        "children": []
+      }
+    ]
   },
   "workspaceSettings": {
     "modid": "hirosdecorationmod",

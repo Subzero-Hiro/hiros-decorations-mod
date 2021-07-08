@@ -1,0 +1,28 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "laptopmainaerodesign"
+      },
+      "name": "default"
+    },
+    "cpu2": {
+      "map": {
+        "0": "laptopcpudesign"
+      },
+      "name": "cpu2"
+    },
+    "aero2": {
+      "map": {
+        "0": "laptopmaindesign"
+      },
+      "name": "aero2"
+    },
+    "cpu": {
+      "map": {
+        "0": "laptopcpudesignalternative"
+      },
+      "name": "cpu"
+    }
+  }
+}

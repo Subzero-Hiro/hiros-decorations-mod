@@ -1,0 +1,8 @@
+{
+  "parent": "hirosdecorationmod:custom/laptopopen",
+  "textures": {
+    "all": "hirosdecorationmod:blocks/laptopcpudesignalternative",
+    "particle": "hirosdecorationmod:blocks/laptopcpudesignalternative",
+    "0": "hirosdecorationmod:blocks/laptopcpudesignalternative"
+  }
+}
