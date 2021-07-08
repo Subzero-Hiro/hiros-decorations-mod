@@ -336,9 +336,9 @@
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "block.hirosdecorationmod.laptop_open_cpu": "Laptop Open (CPU design)",
-      "block.hirosdecorationmod.birch_dining_chair": "Birch Dining Chair",
       "block.hirosdecorationmod.dark_oak_dining_chair": "Dark Oak Dining Chair",
+      "block.hirosdecorationmod.birch_dining_chair": "Birch Dining Chair",
+      "block.hirosdecorationmod.laptop_open_cpu": "Laptop Open (CPU design)",
       "block.hirosdecorationmod.laptop_open_aero_2": "Laptop Open (Aero 2.0 design)",
       "block.hirosdecorationmod.spruce_dining_chair": "Spruce Dining Chair",
       "block.hirosdecorationmod.jungle_dining_chair": "Jungle Dining Chair",
