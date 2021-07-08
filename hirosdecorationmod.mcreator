@@ -36,16 +36,166 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "birch_dining_chair"
+    },
+    {
+      "name": "DarkOakDiningChair",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_oak_dining_chair"
+    },
+    {
+      "name": "AcaciaDiningChair",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "acacia_dining_chair"
+    },
+    {
+      "name": "SpruceDiningChair",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spruce_dining_chair"
+    },
+    {
+      "name": "JungleDiningChair",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jungle_dining_chair"
+    },
+    {
+      "name": "WarpedDiningChair",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "warped_dining_chair"
+    },
+    {
+      "name": "CrimsonDiningChair",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crimson_dining_chair"
+    },
+    {
+      "name": "TableDecorations",
+      "type": "tab",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "table_decorations"
+    },
+    {
+      "name": "OakCoffeTable",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oak_coffe_table"
+    },
+    {
+      "name": "BirchCoffeeTable",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "birch_coffee_table"
+    },
+    {
+      "name": "DarkOakCoffeeTable",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_oak_coffee_table"
+    },
+    {
+      "name": "AcaciaCoffeeTable",
+      "type": "block",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "acacia_coffee_table"
+    },
+    {
+      "name": "SpruceCoffeeTable",
+      "type": "block",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spruce_coffee_table"
+    },
+    {
+      "name": "JungleCoffeeTable",
+      "type": "block",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jungle_coffee_table"
+    },
+    {
+      "name": "WarpedCoffeeTable",
+      "type": "block",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "warped_coffee_table"
+    },
+    {
+      "name": "CrimsonCoffeeTable",
+      "type": "block",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crimson_coffee_table"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "block.hirosdecorationmod.warped_dining_chair": "Warped Dining Chair",
       "block.hirosdecorationmod.oak_dining_chair": "Oak Dining Chair",
       "block.hirosdecorationmod.birch_dining_chair": "Birch Dining Chair",
-      "itemGroup.tabwall_decorations": "Wall Decorations",
-      "itemGroup.tabchair_decorations": "Chair Decorations"
+      "block.hirosdecorationmod.dark_oak_dining_chair": "Dark Oak Dining Chair",
+      "block.hirosdecorationmod.spruce_dining_chair": "Spruce Dining Chair",
+      "block.hirosdecorationmod.jungle_dining_chair": "Jungle Dining Chair",
+      "block.hirosdecorationmod.warped_coffee_table": "Warped Coffee Table",
+      "itemGroup.tabtable_decorations": "Tables",
+      "itemGroup.tabchair_decorations": "Chairs",
+      "block.hirosdecorationmod.jungle_coffee_table": "Jungle Coffee Table",
+      "block.hirosdecorationmod.oak_coffe_table": "Oak Coffee Table",
+      "itemGroup.tabwall_decorations": "Wall Deco",
+      "block.hirosdecorationmod.acacia_dining_chair": "Acacia Dining Chair",
+      "block.hirosdecorationmod.spruce_coffee_table": "Spruce Coffee Table",
+      "block.hirosdecorationmod.crimson_coffee_table": "Crimson Coffee Table",
+      "block.hirosdecorationmod.birch_coffee_table": "Birch Coffee Table",
+      "block.hirosdecorationmod.dark_oak_coffee_table": "Dark Oak Coffee Table",
+      "block.hirosdecorationmod.crimson_dining_chair": "Crimson Dining Chair",
+      "block.hirosdecorationmod.acacia_coffee_table": "Acacia Coffee Table"
     }
   },
   "foldersRoot": {

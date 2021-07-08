@@ -1,0 +1,8 @@
+{
+  "parent": "hirosdecorationmod:custom/chair",
+  "textures": {
+    "all": "hirosdecorationmod:blocks/junglechair",
+    "particle": "hirosdecorationmod:blocks/junglechair",
+    "5": "hirosdecorationmod:blocks/junglechair"
+  }
+}

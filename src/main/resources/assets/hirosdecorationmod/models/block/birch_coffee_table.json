@@ -1,0 +1,8 @@
+{
+  "parent": "hirosdecorationmod:custom/coffeetable",
+  "textures": {
+    "all": "hirosdecorationmod:blocks/birchchair",
+    "particle": "hirosdecorationmod:blocks/birchchair",
+    "0": "hirosdecorationmod:blocks/birchchair"
+  }
+}

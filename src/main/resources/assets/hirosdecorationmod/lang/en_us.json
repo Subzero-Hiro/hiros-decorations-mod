@@ -1,6 +1,21 @@
 {
+  "block.hirosdecorationmod.warped_dining_chair": "Warped Dining Chair",
   "block.hirosdecorationmod.oak_dining_chair": "Oak Dining Chair",
   "block.hirosdecorationmod.birch_dining_chair": "Birch Dining Chair",
-  "itemGroup.tabwall_decorations": "Wall Decorations",
-  "itemGroup.tabchair_decorations": "Chair Decorations"
+  "block.hirosdecorationmod.dark_oak_dining_chair": "Dark Oak Dining Chair",
+  "block.hirosdecorationmod.spruce_dining_chair": "Spruce Dining Chair",
+  "block.hirosdecorationmod.jungle_dining_chair": "Jungle Dining Chair",
+  "block.hirosdecorationmod.warped_coffee_table": "Warped Coffee Table",
+  "itemGroup.tabtable_decorations": "Tables",
+  "itemGroup.tabchair_decorations": "Chairs",
+  "block.hirosdecorationmod.jungle_coffee_table": "Jungle Coffee Table",
+  "block.hirosdecorationmod.oak_coffe_table": "Oak Coffee Table",
+  "itemGroup.tabwall_decorations": "Wall Deco",
+  "block.hirosdecorationmod.acacia_dining_chair": "Acacia Dining Chair",
+  "block.hirosdecorationmod.spruce_coffee_table": "Spruce Coffee Table",
+  "block.hirosdecorationmod.crimson_coffee_table": "Crimson Coffee Table",
+  "block.hirosdecorationmod.birch_coffee_table": "Birch Coffee Table",
+  "block.hirosdecorationmod.dark_oak_coffee_table": "Dark Oak Coffee Table",
+  "block.hirosdecorationmod.crimson_dining_chair": "Crimson Dining Chair",
+  "block.hirosdecorationmod.acacia_coffee_table": "Acacia Coffee Table"
 }

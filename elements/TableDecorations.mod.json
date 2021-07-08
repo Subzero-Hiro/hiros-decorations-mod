@@ -2,9 +2,9 @@
   "_fv": 18,
   "_type": "tab",
   "definition": {
-    "name": "Wall Deco",
+    "name": "Tables",
     "icon": {
-      "value": "Blocks.WALL_SIGN"
+      "value": "CUSTOM:OakCoffeTable"
     },
     "showSearch": true
   }

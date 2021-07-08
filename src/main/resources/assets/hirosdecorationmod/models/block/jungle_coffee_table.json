@@ -1,0 +1,8 @@
+{
+  "parent": "hirosdecorationmod:custom/coffeetable",
+  "textures": {
+    "all": "hirosdecorationmod:blocks/junglechair",
+    "particle": "hirosdecorationmod:blocks/junglechair",
+    "0": "hirosdecorationmod:blocks/junglechair"
+  }
+}

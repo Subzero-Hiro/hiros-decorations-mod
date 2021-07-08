@@ -1,0 +1,8 @@
+{
+  "parent": "hirosdecorationmod:custom/chair",
+  "textures": {
+    "all": "hirosdecorationmod:blocks/warpedchair",
+    "particle": "hirosdecorationmod:blocks/warpedchair",
+    "5": "hirosdecorationmod:blocks/warpedchair"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "hirosdecorationmod:custom/chair",
+  "textures": {
+    "all": "hirosdecorationmod:blocks/sprucechair",
+    "particle": "hirosdecorationmod:blocks/sprucechair",
+    "5": "hirosdecorationmod:blocks/sprucechair"
+  }
+}
