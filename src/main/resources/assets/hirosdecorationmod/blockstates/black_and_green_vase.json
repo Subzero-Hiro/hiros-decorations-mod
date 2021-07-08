@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "hirosdecorationmod:block/black_and_green_vase"
+    },
+    "facing=east": {
+      "model": "hirosdecorationmod:block/black_and_green_vase",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "hirosdecorationmod:block/black_and_green_vase",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "hirosdecorationmod:block/black_and_green_vase",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "hirosdecorationmod:block/black_and_green_vase",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "hirosdecorationmod:block/black_and_green_vase",
+      "x": 90
+    }
+  }
+}

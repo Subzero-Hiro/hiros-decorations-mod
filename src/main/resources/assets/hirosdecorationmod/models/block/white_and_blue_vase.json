@@ -1,0 +1,8 @@
+{
+  "parent": "hirosdecorationmod:custom/vasemedium",
+  "textures": {
+    "all": "hirosdecorationmod:blocks/vaseblue",
+    "particle": "hirosdecorationmod:blocks/vaseblue",
+    "0": "hirosdecorationmod:blocks/vaseblue"
+  }
+}

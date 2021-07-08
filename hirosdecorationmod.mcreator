@@ -189,33 +189,83 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "white_and_yellow_vase"
+    },
+    {
+      "name": "WhiteAndBlueVase",
+      "type": "block",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_and_blue_vase"
+    },
+    {
+      "name": "WhiteAndPurplaVase",
+      "type": "block",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_and_purpla_vase"
+    },
+    {
+      "name": "WhiteAndOrangeVase",
+      "type": "block",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_and_orange_vase"
+    },
+    {
+      "name": "BlackAndOrangeVase",
+      "type": "block",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "black_and_orange_vase"
+    },
+    {
+      "name": "BlackAndGreenVase",
+      "type": "block",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "black_and_green_vase"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "block.hirosdecorationmod.warped_dining_chair": "Warped Dining Chair",
-      "block.hirosdecorationmod.oak_dining_chair": "Oak Dining Chair",
       "block.hirosdecorationmod.birch_dining_chair": "Birch Dining Chair",
       "block.hirosdecorationmod.dark_oak_dining_chair": "Dark Oak Dining Chair",
       "block.hirosdecorationmod.spruce_dining_chair": "Spruce Dining Chair",
-      "itemGroup.tabpottery_decorations": "Pottery",
       "block.hirosdecorationmod.jungle_dining_chair": "Jungle Dining Chair",
       "block.hirosdecorationmod.warped_coffee_table": "Warped Coffee Table",
       "itemGroup.tabtable_decorations": "Tables",
-      "itemGroup.tabchair_decorations": "Chairs",
       "block.hirosdecorationmod.jungle_coffee_table": "Jungle Coffee Table",
+      "block.hirosdecorationmod.white_and_purpla_vase": "White And Purple Vase",
       "block.hirosdecorationmod.oak_coffe_table": "Oak Coffee Table",
-      "block.hirosdecorationmod.white_and_yellow_vase": "White And Yellow Vase",
       "itemGroup.tabwall_decorations": "Wall Deco",
-      "block.hirosdecorationmod.acacia_dining_chair": "Acacia Dining Chair",
-      "block.hirosdecorationmod.spruce_coffee_table": "Spruce Coffee Table",
       "block.hirosdecorationmod.crimson_coffee_table": "Crimson Coffee Table",
       "block.hirosdecorationmod.birch_coffee_table": "Birch Coffee Table",
       "block.hirosdecorationmod.dark_oak_coffee_table": "Dark Oak Coffee Table",
+      "block.hirosdecorationmod.acacia_coffee_table": "Acacia Coffee Table",
+      "block.hirosdecorationmod.warped_dining_chair": "Warped Dining Chair",
+      "block.hirosdecorationmod.oak_dining_chair": "Oak Dining Chair",
+      "block.hirosdecorationmod.white_and_blue_vase": "White And Blue Vase",
+      "block.hirosdecorationmod.black_and_orange_vase": "Black And Orange Vase",
+      "itemGroup.tabpottery_decorations": "Pottery",
+      "itemGroup.tabchair_decorations": "Chairs",
+      "block.hirosdecorationmod.white_and_yellow_vase": "White And Yellow Vase",
+      "block.hirosdecorationmod.acacia_dining_chair": "Acacia Dining Chair",
+      "block.hirosdecorationmod.black_and_green_vase": "Black And Green Vase",
+      "block.hirosdecorationmod.spruce_coffee_table": "Spruce Coffee Table",
       "block.hirosdecorationmod.crimson_dining_chair": "Crimson Dining Chair",
-      "block.hirosdecorationmod.acacia_coffee_table": "Acacia Coffee Table"
+      "block.hirosdecorationmod.white_and_orange_vase": "White And Orange Vase"
     }
   },
   "foldersRoot": {
