@@ -9,7 +9,7 @@
     "textureRight": "",
     "textureBack": "",
     "renderType": 2,
-    "customModelName": "chair:default",
+    "customModelName": "chair:birch",
     "rotationMode": 2,
     "emissiveRendering": false,
     "displayFluidOverlay": false,
@@ -19,7 +19,7 @@
     "isItemTinted": false,
     "hasTransparency": true,
     "connectedSides": false,
-    "transparencyType": "CUTOUT",
+    "transparencyType": "SOLID",
     "disableOffset": false,
     "boundingBoxes": [
       {
@@ -27,7 +27,7 @@
         "my": 0.0,
         "mz": 2.0,
         "Mx": 14.0,
-        "My": 8.0,
+        "My": 11.0,
         "Mz": 14.0,
         "subtract": false
       },

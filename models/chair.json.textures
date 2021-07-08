@@ -2,9 +2,51 @@
   "mappings": {
     "default": {
       "map": {
-        "5": ""
+        "5": "oakchair"
       },
       "name": "default"
+    },
+    "birch": {
+      "map": {
+        "5": "birchchair"
+      },
+      "name": "birch"
+    },
+    "acacia": {
+      "map": {
+        "5": "acaciachair"
+      },
+      "name": "acacia"
+    },
+    "crimson": {
+      "map": {
+        "5": "crimsonchair"
+      },
+      "name": "crimson"
+    },
+    "darkoak": {
+      "map": {
+        "5": "darkoakchair"
+      },
+      "name": "darkoak"
+    },
+    "jungle": {
+      "map": {
+        "5": "junglechair"
+      },
+      "name": "jungle"
+    },
+    "spruce": {
+      "map": {
+        "5": "sprucechair"
+      },
+      "name": "spruce"
+    },
+    "warped": {
+      "map": {
+        "5": "warpedchair"
+      },
+      "name": "warped"
     }
   }
 }

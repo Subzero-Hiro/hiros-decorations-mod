@@ -3,6 +3,6 @@
   "textures": {
     "all": "hirosdecorationmod:blocks/oakchair",
     "particle": "hirosdecorationmod:blocks/oakchair",
-    "5": "hirosdecorationmod:blocks/"
+    "5": "hirosdecorationmod:blocks/oakchair"
   }
 }

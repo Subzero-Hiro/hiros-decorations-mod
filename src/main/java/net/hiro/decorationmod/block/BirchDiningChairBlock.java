@@ -90,22 +90,22 @@ public class BirchDiningChairBlock extends HirosdecorationmodModElements.ModElem
 			switch ((Direction) state.get(FACING)) {
 				case SOUTH :
 				default :
-					return VoxelShapes.or(makeCuboidShape(14, 0, 14, 2, 8, 2), makeCuboidShape(14, 11, 3, 2, 25, 2)).withOffset(offset.x, offset.y,
+					return VoxelShapes.or(makeCuboidShape(14, 0, 14, 2, 11, 2), makeCuboidShape(14, 11, 3, 2, 25, 2)).withOffset(offset.x, offset.y,
 							offset.z);
 				case NORTH :
-					return VoxelShapes.or(makeCuboidShape(2, 0, 2, 14, 8, 14), makeCuboidShape(2, 11, 13, 14, 25, 14)).withOffset(offset.x, offset.y,
+					return VoxelShapes.or(makeCuboidShape(2, 0, 2, 14, 11, 14), makeCuboidShape(2, 11, 13, 14, 25, 14)).withOffset(offset.x, offset.y,
 							offset.z);
 				case EAST :
-					return VoxelShapes.or(makeCuboidShape(14, 0, 2, 2, 8, 14), makeCuboidShape(3, 11, 2, 2, 25, 14)).withOffset(offset.x, offset.y,
+					return VoxelShapes.or(makeCuboidShape(14, 0, 2, 2, 11, 14), makeCuboidShape(3, 11, 2, 2, 25, 14)).withOffset(offset.x, offset.y,
 							offset.z);
 				case WEST :
-					return VoxelShapes.or(makeCuboidShape(2, 0, 14, 14, 8, 2), makeCuboidShape(13, 11, 14, 14, 25, 2)).withOffset(offset.x, offset.y,
+					return VoxelShapes.or(makeCuboidShape(2, 0, 14, 14, 11, 2), makeCuboidShape(13, 11, 14, 14, 25, 2)).withOffset(offset.x, offset.y,
 							offset.z);
 				case UP :
-					return VoxelShapes.or(makeCuboidShape(2, 14, 0, 14, 2, 8), makeCuboidShape(2, 3, 11, 14, 2, 25)).withOffset(offset.x, offset.y,
+					return VoxelShapes.or(makeCuboidShape(2, 14, 0, 14, 2, 11), makeCuboidShape(2, 3, 11, 14, 2, 25)).withOffset(offset.x, offset.y,
 							offset.z);
 				case DOWN :
-					return VoxelShapes.or(makeCuboidShape(2, 2, 16, 14, 14, 8), makeCuboidShape(2, 13, 5, 14, 14, -9)).withOffset(offset.x, offset.y,
+					return VoxelShapes.or(makeCuboidShape(2, 2, 16, 14, 14, 5), makeCuboidShape(2, 13, 5, 14, 14, -9)).withOffset(offset.x, offset.y,
 							offset.z);
 			}
 		}
