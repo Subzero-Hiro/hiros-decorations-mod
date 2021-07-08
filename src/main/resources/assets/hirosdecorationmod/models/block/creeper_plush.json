@@ -1,0 +1,8 @@
+{
+  "parent": "hirosdecorationmod:custom/creeperplustoy",
+  "textures": {
+    "all": "hirosdecorationmod:blocks/creeperplush",
+    "particle": "hirosdecorationmod:blocks/creeperplush",
+    "0": "hirosdecorationmod:blocks/creeperplush"
+  }
+}

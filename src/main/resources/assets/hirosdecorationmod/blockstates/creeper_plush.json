@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "hirosdecorationmod:block/creeper_plush"
+    },
+    "facing=east": {
+      "model": "hirosdecorationmod:block/creeper_plush",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "hirosdecorationmod:block/creeper_plush",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "hirosdecorationmod:block/creeper_plush",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "hirosdecorationmod:block/creeper_plush",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "hirosdecorationmod:block/creeper_plush",
+      "x": 90
+    }
+  }
+}

@@ -66,7 +66,7 @@ public class VaseGuiWindow extends ContainerScreen<VaseGui.GuiContainerMod> {
 
 	@Override
 	protected void drawGuiContainerForegroundLayer(MatrixStack ms, int mouseX, int mouseY) {
-		this.font.drawString(ms, "Vase", 4, 5, -12829636);
+		this.font.drawString(ms, "Vase", 6, 6, -12829636);
 	}
 
 	@Override
