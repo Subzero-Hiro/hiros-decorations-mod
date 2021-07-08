@@ -1,0 +1,11 @@
+{
+  "_fv": 18,
+  "_type": "tab",
+  "definition": {
+    "name": "Wall Decorations",
+    "icon": {
+      "value": "Blocks.WALL_SIGN"
+    },
+    "showSearch": true
+  }
+}

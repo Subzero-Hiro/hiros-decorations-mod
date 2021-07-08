@@ -1,0 +1,73 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "ChairDecorations",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chair_decorations"
+    },
+    {
+      "name": "WallDecorations",
+      "type": "tab",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wall_decorations"
+    },
+    {
+      "name": "OakDiningChair",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oak_dining_chair"
+    },
+    {
+      "name": "BirchDiningChair",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "birch_dining_chair"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.hirosdecorationmod.oak_dining_chair": "Oak Dining Chair",
+      "block.hirosdecorationmod.birch_dining_chair": "Birch Dining Chair",
+      "itemGroup.tabwall_decorations": "Wall Decorations",
+      "itemGroup.tabchair_decorations": "Chair Decorations"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "hirosdecorationmod",
+    "modName": "Hiro\u0027s decorations",
+    "version": "1.0.0",
+    "author": "Hiro, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.hiro.decorationmod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}
