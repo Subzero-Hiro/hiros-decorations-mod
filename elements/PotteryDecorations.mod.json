@@ -1,0 +1,11 @@
+{
+  "_fv": 18,
+  "_type": "tab",
+  "definition": {
+    "name": "Pottery",
+    "icon": {
+      "value": "Items.FLOWER_POT"
+    },
+    "showSearch": true
+  }
+}

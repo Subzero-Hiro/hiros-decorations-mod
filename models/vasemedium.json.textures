@@ -1,0 +1,40 @@
+{
+  "mappings": {
+    "orange": {
+      "map": {
+        "0": "vaseorange"
+      },
+      "name": "orange"
+    },
+    "orangeblack": {
+      "map": {
+        "0": "vaseorangeblack"
+      },
+      "name": "orangeblack"
+    },
+    "default": {
+      "map": {
+        "0": "vaseyellow"
+      },
+      "name": "default"
+    },
+    "greenblack": {
+      "map": {
+        "0": "vasegreenblack"
+      },
+      "name": "greenblack"
+    },
+    "blue": {
+      "map": {
+        "0": "vaseblue"
+      },
+      "name": "blue"
+    },
+    "purple": {
+      "map": {
+        "0": "vasepurple"
+      },
+      "name": "purple"
+    }
+  }
+}
