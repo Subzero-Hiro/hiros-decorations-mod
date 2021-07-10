@@ -330,6 +330,56 @@
       "ids": {},
       "registry_name": "laptop_open_aero_2",
       "path": "~/Technology"
+    },
+    {
+      "name": "FlatscreenTV",
+      "type": "block",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "flatscreen_tv_aero",
+      "path": "~/Technology"
+    },
+    {
+      "name": "FlatscreenTVAero2",
+      "type": "block",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "flatscreen_tv_aero_2",
+      "path": "~/Technology"
+    },
+    {
+      "name": "FlatscreenTVCpu",
+      "type": "block",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "flatscreen_tv_cpu",
+      "path": "~/Technology"
+    },
+    {
+      "name": "LaptopAeroCrafting",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "laptop_aero_crafting",
+      "path": "~/Technology/Recipies"
+    },
+    {
+      "name": "TVAeroCrafting",
+      "type": "recipe",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tv_aero_crafting",
+      "path": "~/Technology/Recipies"
     }
   ],
   "variable_elements": [],
@@ -347,8 +397,10 @@
       "block.hirosdecorationmod.white_and_purpla_vase": "White And Purple Vase",
       "block.hirosdecorationmod.jungle_coffee_table": "Jungle Coffee Table",
       "block.hirosdecorationmod.oak_coffe_table": "Oak Coffee Table",
+      "block.hirosdecorationmod.flatscreen_tv_aero": "Flatscreen TV (Aero design)",
       "itemGroup.tabwall_decorations": "Wall Deco",
       "block.hirosdecorationmod.laptop_open_aero": "Laptop Open (Aero design)",
+      "block.hirosdecorationmod.flatscreen_tv_aero_2": "Flatscreen TV (Aero 2.0 Design)",
       "block.hirosdecorationmod.crimson_coffee_table": "Crimson Coffee Table",
       "block.hirosdecorationmod.birch_coffee_table": "Birch Coffee Table",
       "block.hirosdecorationmod.dark_oak_coffee_table": "Dark Oak Coffee Table",
@@ -365,6 +417,7 @@
       "block.hirosdecorationmod.white_and_yellow_vase": "White And Yellow Vase",
       "block.hirosdecorationmod.acacia_dining_chair": "Acacia Dining Chair",
       "block.hirosdecorationmod.black_and_green_vase": "Black And Green Vase",
+      "block.hirosdecorationmod.flatscreen_tv_cpu": "Flatscreen TV (CPU Design)",
       "block.hirosdecorationmod.spruce_coffee_table": "Spruce Coffee Table",
       "block.hirosdecorationmod.crimson_dining_chair": "Crimson Dining Chair",
       "block.hirosdecorationmod.white_and_orange_vase": "White And Orange Vase"
@@ -395,7 +448,12 @@
       },
       {
         "name": "Technology",
-        "children": []
+        "children": [
+          {
+            "name": "Recipies",
+            "children": []
+          }
+        ]
       }
     ]
   },

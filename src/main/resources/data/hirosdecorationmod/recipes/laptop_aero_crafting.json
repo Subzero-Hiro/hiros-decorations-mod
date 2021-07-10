@@ -1,0 +1,42 @@
+{
+  "group": "hirosdecorationmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:iron_nugget"
+    },
+    "1": {
+      "item": "minecraft:iron_ingot"
+    },
+    "2": {
+      "item": "minecraft:iron_nugget"
+    },
+    "3": {
+      "item": "minecraft:redstone_torch"
+    },
+    "4": {
+      "item": "minecraft:glass_pane"
+    },
+    "5": {
+      "item": "minecraft:redstone_torch"
+    },
+    "6": {
+      "item": "minecraft:iron_nugget"
+    },
+    "7": {
+      "item": "minecraft:stone_button"
+    },
+    "8": {
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "result": {
+    "item": "hirosdecorationmod:laptop_open_aero",
+    "count": 1
+  }
+}

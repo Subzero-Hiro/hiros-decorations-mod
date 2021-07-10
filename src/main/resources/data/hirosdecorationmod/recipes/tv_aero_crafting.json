@@ -1,0 +1,42 @@
+{
+  "group": "hirosdecorationmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:iron_ingot"
+    },
+    "1": {
+      "item": "minecraft:redstone"
+    },
+    "2": {
+      "item": "minecraft:iron_ingot"
+    },
+    "3": {
+      "tag": "forge:stained_glass_panes"
+    },
+    "4": {
+      "item": "minecraft:glass_pane"
+    },
+    "5": {
+      "tag": "forge:stained_glass_panes"
+    },
+    "6": {
+      "item": "minecraft:redstone_torch"
+    },
+    "7": {
+      "item": "minecraft:iron_ingot"
+    },
+    "8": {
+      "item": "minecraft:redstone_torch"
+    }
+  },
+  "result": {
+    "item": "hirosdecorationmod:flatscreen_tv_aero",
+    "count": 1
+  }
+}

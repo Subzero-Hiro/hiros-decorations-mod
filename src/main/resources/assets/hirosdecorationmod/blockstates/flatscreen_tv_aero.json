@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "hirosdecorationmod:block/flatscreen_tv_aero"
+    },
+    "facing=east": {
+      "model": "hirosdecorationmod:block/flatscreen_tv_aero",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "hirosdecorationmod:block/flatscreen_tv_aero",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "hirosdecorationmod:block/flatscreen_tv_aero",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "hirosdecorationmod:block/flatscreen_tv_aero",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "hirosdecorationmod:block/flatscreen_tv_aero",
+      "x": 90
+    }
+  }
+}

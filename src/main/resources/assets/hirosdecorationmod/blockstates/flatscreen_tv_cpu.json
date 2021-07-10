@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "hirosdecorationmod:block/flatscreen_tv_cpu"
+    },
+    "facing=east": {
+      "model": "hirosdecorationmod:block/flatscreen_tv_cpu",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "hirosdecorationmod:block/flatscreen_tv_cpu",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "hirosdecorationmod:block/flatscreen_tv_cpu",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "hirosdecorationmod:block/flatscreen_tv_cpu",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "hirosdecorationmod:block/flatscreen_tv_cpu",
+      "x": 90
+    }
+  }
+}

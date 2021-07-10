@@ -1,0 +1,8 @@
+{
+  "parent": "hirosdecorationmod:custom/tvstanding",
+  "textures": {
+    "all": "hirosdecorationmod:blocks/tvaero2",
+    "particle": "hirosdecorationmod:blocks/tvaero2",
+    "0": "hirosdecorationmod:blocks/tvaero2"
+  }
+}

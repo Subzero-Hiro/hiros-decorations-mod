@@ -1,0 +1,22 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "tv"
+      },
+      "name": "default"
+    },
+    "aero2": {
+      "map": {
+        "0": "tvaero2"
+      },
+      "name": "aero2"
+    },
+    "cpu": {
+      "map": {
+        "0": "tvcpu"
+      },
+      "name": "cpu"
+    }
+  }
+}
