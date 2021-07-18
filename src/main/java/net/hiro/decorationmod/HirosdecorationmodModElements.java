@@ -45,6 +45,10 @@ public class HirosdecorationmodModElements {
 	public final List<Supplier<Enchantment>> enchantments = new ArrayList<>();
 	public static Map<ResourceLocation, net.minecraft.util.SoundEvent> sounds = new HashMap<>();
 	public HirosdecorationmodModElements() {
+		sounds.put(new ResourceLocation("hirosdecorationmod", "tvturnon"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("hirosdecorationmod", "tvturnon")));
+		sounds.put(new ResourceLocation("hirosdecorationmod", "switchclicking"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("hirosdecorationmod", "switchclicking")));
 		try {
 			ModFileScanData modFileInfo = ModList.get().getModFileById("hirosdecorationmod").getFile().getScanResult();
 			Set<ModFileScanData.AnnotationData> annotations = modFileInfo.getAnnotations();

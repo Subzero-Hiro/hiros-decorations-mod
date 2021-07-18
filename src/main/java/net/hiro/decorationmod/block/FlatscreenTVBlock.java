@@ -7,6 +7,7 @@ import net.minecraftforge.common.ToolType;
 import net.minecraftforge.api.distmarker.OnlyIn;
 import net.minecraftforge.api.distmarker.Dist;
 
+import net.minecraft.world.World;
 import net.minecraft.world.IWorldReader;
 import net.minecraft.world.IWorld;
 import net.minecraft.world.IBlockReader;
@@ -15,10 +16,13 @@ import net.minecraft.util.math.shapes.VoxelShapes;
 import net.minecraft.util.math.shapes.VoxelShape;
 import net.minecraft.util.math.shapes.ISelectionContext;
 import net.minecraft.util.math.RayTraceResult;
+import net.minecraft.util.math.BlockRayTraceResult;
 import net.minecraft.util.math.BlockPos;
 import net.minecraft.util.Rotation;
 import net.minecraft.util.Mirror;
+import net.minecraft.util.Hand;
 import net.minecraft.util.Direction;
+import net.minecraft.util.ActionResultType;
 import net.minecraft.state.properties.BlockStateProperties;
 import net.minecraft.state.StateContainer;
 import net.minecraft.state.DirectionProperty;
@@ -40,10 +44,13 @@ import net.minecraft.block.DirectionalBlock;
 import net.minecraft.block.BlockState;
 import net.minecraft.block.Block;
 
+import net.hiro.decorationmod.procedures.FlatscreenTVOnBlockRightClickedProcedure;
 import net.hiro.decorationmod.itemgroup.TechnologyItemGroup;
 import net.hiro.decorationmod.HirosdecorationmodModElements;
 
+import java.util.Map;
 import java.util.List;
+import java.util.HashMap;
 import java.util.Collections;
 
 @HirosdecorationmodModElements.ModElement.Tag
@@ -86,17 +93,17 @@ public class FlatscreenTVBlock extends HirosdecorationmodModElements.ModElement 
 			switch ((Direction) state.get(FACING)) {
 				case SOUTH :
 				default :
-					return VoxelShapes.or(makeCuboidShape(22, 0, 11, -6, 18, 5)).withOffset(offset.x, offset.y, offset.z);
+					return VoxelShapes.or(makeCuboidShape(22, 0, 10, -6, 18, 6)).withOffset(offset.x, offset.y, offset.z);
 				case NORTH :
-					return VoxelShapes.or(makeCuboidShape(-6, 0, 5, 22, 18, 11)).withOffset(offset.x, offset.y, offset.z);
+					return VoxelShapes.or(makeCuboidShape(-6, 0, 6, 22, 18, 10)).withOffset(offset.x, offset.y, offset.z);
 				case EAST :
-					return VoxelShapes.or(makeCuboidShape(11, 0, -6, 5, 18, 22)).withOffset(offset.x, offset.y, offset.z);
+					return VoxelShapes.or(makeCuboidShape(10, 0, -6, 6, 18, 22)).withOffset(offset.x, offset.y, offset.z);
 				case WEST :
-					return VoxelShapes.or(makeCuboidShape(5, 0, 22, 11, 18, -6)).withOffset(offset.x, offset.y, offset.z);
+					return VoxelShapes.or(makeCuboidShape(6, 0, 22, 10, 18, -6)).withOffset(offset.x, offset.y, offset.z);
 				case UP :
-					return VoxelShapes.or(makeCuboidShape(-6, 11, 0, 22, 5, 18)).withOffset(offset.x, offset.y, offset.z);
+					return VoxelShapes.or(makeCuboidShape(-6, 10, 0, 22, 6, 18)).withOffset(offset.x, offset.y, offset.z);
 				case DOWN :
-					return VoxelShapes.or(makeCuboidShape(-6, 5, 16, 22, 11, -2)).withOffset(offset.x, offset.y, offset.z);
+					return VoxelShapes.or(makeCuboidShape(-6, 6, 16, 22, 10, -2)).withOffset(offset.x, offset.y, offset.z);
 			}
 		}
 
@@ -154,6 +161,26 @@ public class FlatscreenTVBlock extends HirosdecorationmodModElements.ModElement 
 			if (!dropsOriginal.isEmpty())
 				return dropsOriginal;
 			return Collections.singletonList(new ItemStack(this, 1));
+		}
+
+		@Override
+		public ActionResultType onBlockActivated(BlockState state, World world, BlockPos pos, PlayerEntity entity, Hand hand,
+				BlockRayTraceResult hit) {
+			super.onBlockActivated(state, world, pos, entity, hand, hit);
+			int x = pos.getX();
+			int y = pos.getY();
+			int z = pos.getZ();
+			Direction direction = hit.getFace();
+			{
+				Map<String, Object> $_dependencies = new HashMap<>();
+				$_dependencies.put("entity", entity);
+				$_dependencies.put("x", x);
+				$_dependencies.put("y", y);
+				$_dependencies.put("z", z);
+				$_dependencies.put("world", world);
+				FlatscreenTVOnBlockRightClickedProcedure.executeProcedure($_dependencies);
+			}
+			return ActionResultType.SUCCESS;
 		}
 	}
 }

@@ -2,19 +2,19 @@
   "_fv": 18,
   "_type": "block",
   "definition": {
-    "texture": "tv",
+    "texture": "laptopmainaerodesign",
     "textureTop": "",
     "textureLeft": "",
     "textureFront": "",
     "textureRight": "",
     "textureBack": "",
     "renderType": 2,
-    "customModelName": "tvstanding:default",
-    "rotationMode": 2,
+    "customModelName": "laptopclosed:default",
+    "rotationMode": 1,
     "emissiveRendering": false,
     "displayFluidOverlay": false,
     "itemTexture": "",
-    "particleTexture": "tv",
+    "particleTexture": "laptopmainaerodesign",
     "tintType": "No tint",
     "isItemTinted": false,
     "hasTransparency": true,
@@ -23,16 +23,16 @@
     "disableOffset": false,
     "boundingBoxes": [
       {
-        "mx": -6.0,
+        "mx": 2.0,
         "my": 0.0,
-        "mz": 6.0,
-        "Mx": 22.0,
-        "My": 18.0,
-        "Mz": 10.0,
+        "mz": 2.0,
+        "Mx": 14.0,
+        "My": 4.0,
+        "Mz": 14.0,
         "subtract": false
       }
     ],
-    "name": "Flatscreen TV (Aero design)",
+    "name": "Laptop Open (Aero design)",
     "specialInfo": [],
     "hardness": 1.0,
     "resistance": 10.0,
@@ -47,36 +47,36 @@
     },
     "dropAmount": 1,
     "useLootTableForDrops": false,
-    "enchantPowerBonus": 0.5,
+    "enchantPowerBonus": 4.0,
     "plantsGrowOn": false,
     "canProvidePower": false,
     "lightOpacity": 0,
     "material": {
-      "value": "ROCK"
+      "value": "IRON"
     },
     "tickRate": 10,
     "tickRandomly": false,
     "isReplaceable": false,
     "colorOnMap": "DEFAULT",
     "creativePickItem": {
-      "value": "CUSTOM:FlatscreenTV"
+      "value": "CUSTOM:LaptopOpen"
     },
     "offsetType": "NONE",
-    "aiPathNodeType": "DEFAULT",
-    "flammability": 2,
+    "aiPathNodeType": "WALKABLE",
+    "flammability": 4,
     "fireSpreadSpeed": 0,
     "isLadder": false,
     "slipperiness": 0.6,
     "speedFactor": 1.0,
     "jumpFactor": 1.0,
-    "reactionToPushing": "NORMAL",
+    "reactionToPushing": "PUSH_ONLY",
     "isNotColidable": false,
     "soundOnStep": {
-      "value": "METAL"
+      "value": "LANTERN"
     },
     "luminance": 1,
     "unbreakable": false,
-    "breakHarvestLevel": 1,
+    "breakHarvestLevel": 2,
     "spawnParticles": false,
     "particleToSpawn": {
       "value": "EXPLOSION_NORMAL"
@@ -102,7 +102,7 @@
     "fluidCapacity": 8000,
     "fluidRestrictions": [],
     "onRightClicked": {
-      "name": "FlatscreenTVOnBlockRightClicked"
+      "name": "LaptopClosedRightClick"
     },
     "spawnWorldTypes": [],
     "restrictionBiomes": [],

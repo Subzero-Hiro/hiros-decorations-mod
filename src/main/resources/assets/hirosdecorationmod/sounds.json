@@ -1,1 +1,22 @@
-{}
+{
+  "tvturnon": {
+    "category": "block",
+    "subtitle": "subtitles.tvturnon",
+    "sounds": [
+      {
+        "name": "hirosdecorationmod:mbb--beach-intro",
+        "stream": false
+      }
+    ]
+  },
+  "switchclicking": {
+    "category": "block",
+    "subtitle": "subtitles.switchclicking",
+    "sounds": [
+      {
+        "name": "hirosdecorationmod:switchclick",
+        "stream": false
+      }
+    ]
+  }
+}

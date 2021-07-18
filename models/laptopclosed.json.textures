@@ -2,27 +2,21 @@
   "mappings": {
     "default": {
       "map": {
-        "0": "tv"
+        "0": "laptopmainaerodesign"
       },
       "name": "default"
     },
     "aero2": {
       "map": {
-        "0": "tvaero2"
+        "0": "laptopmaindesign"
       },
       "name": "aero2"
     },
     "cpu": {
       "map": {
-        "0": "tvcpu"
+        "0": "laptopcpudesignalternative"
       },
       "name": "cpu"
-    },
-    "defaulton": {
-      "map": {
-        "0": "tvon"
-      },
-      "name": "defaulton"
     }
   }
 }

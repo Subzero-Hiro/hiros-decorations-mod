@@ -2,19 +2,19 @@
   "_fv": 18,
   "_type": "block",
   "definition": {
-    "texture": "tv",
+    "texture": "tvon",
     "textureTop": "",
     "textureLeft": "",
     "textureFront": "",
     "textureRight": "",
     "textureBack": "",
     "renderType": 2,
-    "customModelName": "tvstanding:default",
+    "customModelName": "tvstanding:defaulton",
     "rotationMode": 2,
     "emissiveRendering": false,
     "displayFluidOverlay": false,
     "itemTexture": "",
-    "particleTexture": "tv",
+    "particleTexture": "tvon",
     "tintType": "No tint",
     "isItemTinted": false,
     "hasTransparency": true,
@@ -32,7 +32,7 @@
         "subtract": false
       }
     ],
-    "name": "Flatscreen TV (Aero design)",
+    "name": "Flatscreen TV (Aero design) - Turned On",
     "specialInfo": [],
     "hardness": 1.0,
     "resistance": 10.0,
@@ -102,7 +102,7 @@
     "fluidCapacity": 8000,
     "fluidRestrictions": [],
     "onRightClicked": {
-      "name": "FlatscreenTVOnBlockRightClicked"
+      "name": "FlatscreenTVOffRightClicked"
     },
     "spawnWorldTypes": [],
     "restrictionBiomes": [],

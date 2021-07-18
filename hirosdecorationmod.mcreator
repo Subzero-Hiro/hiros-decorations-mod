@@ -380,15 +380,208 @@
       "ids": {},
       "registry_name": "tv_aero_crafting",
       "path": "~/Technology/Recipies"
+    },
+    {
+      "name": "FlatscreenTVOn",
+      "type": "block",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "flatscreen_tv_on",
+      "path": "~/Technology"
+    },
+    {
+      "name": "FlatscreenTVOnBlockRightClicked",
+      "type": "procedure",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "flatscreen_tv_on_block_right_clicked",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Technology"
+    },
+    {
+      "name": "FlatscreenTVOffRightClicked",
+      "type": "procedure",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "flatscreen_tv_off_right_clicked",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Technology"
+    },
+    {
+      "name": "LaptopClosed",
+      "type": "block",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "laptop_closed",
+      "path": "~/Technology"
+    },
+    {
+      "name": "LaptopClosedCPU",
+      "type": "block",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "laptop_closed_cpu",
+      "path": "~/Technology"
+    },
+    {
+      "name": "LaptopClosedAero2",
+      "type": "block",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "laptop_closed_aero_2",
+      "path": "~/Technology"
+    },
+    {
+      "name": "LaptopClosedRightClick",
+      "type": "procedure",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "laptop_closed_right_click",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Technology"
+    },
+    {
+      "name": "LaptopOpenRightClick",
+      "type": "procedure",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "laptop_open_right_click",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Technology"
     }
   ],
   "variable_elements": [],
-  "sound_elements": [],
+  "sound_elements": [
+    {
+      "name": "tvturnon",
+      "files": [
+        "mbb--beach-intro"
+      ],
+      "category": "block",
+      "subtitle": "tv turns on"
+    },
+    {
+      "name": "switchclicking",
+      "files": [
+        "switchclick"
+      ],
+      "category": "block",
+      "subtitle": "Switch Clicks"
+    }
+  ],
   "language_map": {
     "en_us": {
-      "block.hirosdecorationmod.dark_oak_dining_chair": "Dark Oak Dining Chair",
-      "block.hirosdecorationmod.birch_dining_chair": "Birch Dining Chair",
       "block.hirosdecorationmod.laptop_open_cpu": "Laptop Open (CPU design)",
+      "block.hirosdecorationmod.birch_dining_chair": "Birch Dining Chair",
+      "block.hirosdecorationmod.dark_oak_dining_chair": "Dark Oak Dining Chair",
       "block.hirosdecorationmod.laptop_open_aero_2": "Laptop Open (Aero 2.0 design)",
       "block.hirosdecorationmod.spruce_dining_chair": "Spruce Dining Chair",
       "block.hirosdecorationmod.jungle_dining_chair": "Jungle Dining Chair",
@@ -402,6 +595,7 @@
       "block.hirosdecorationmod.laptop_open_aero": "Laptop Open (Aero design)",
       "block.hirosdecorationmod.flatscreen_tv_aero_2": "Flatscreen TV (Aero 2.0 Design)",
       "block.hirosdecorationmod.crimson_coffee_table": "Crimson Coffee Table",
+      "block.hirosdecorationmod.flatscreen_tv_on": "Flatscreen TV (Aero design) - Turned On",
       "block.hirosdecorationmod.birch_coffee_table": "Birch Coffee Table",
       "block.hirosdecorationmod.dark_oak_coffee_table": "Dark Oak Coffee Table",
       "block.hirosdecorationmod.acacia_coffee_table": "Acacia Coffee Table",
@@ -412,13 +606,18 @@
       "block.hirosdecorationmod.black_and_orange_vase": "Black And Orange Vase",
       "itemGroup.tabpottery_decorations": "Pottery",
       "itemGroup.tabtechnology": "Technology",
+      "subtitles.tvturnon": "tv turns on",
       "block.hirosdecorationmod.creeper_plush": "Creeper Plush",
       "itemGroup.tabchair_decorations": "Chairs",
       "block.hirosdecorationmod.white_and_yellow_vase": "White And Yellow Vase",
+      "block.hirosdecorationmod.laptop_closed_aero_2": "Laptop Open (Aero 2.0 design)",
       "block.hirosdecorationmod.acacia_dining_chair": "Acacia Dining Chair",
       "block.hirosdecorationmod.black_and_green_vase": "Black And Green Vase",
       "block.hirosdecorationmod.flatscreen_tv_cpu": "Flatscreen TV (CPU Design)",
       "block.hirosdecorationmod.spruce_coffee_table": "Spruce Coffee Table",
+      "block.hirosdecorationmod.laptop_closed_cpu": "Laptop Open (CPU design)",
+      "subtitles.switchclicking": "Switch Clicks",
+      "block.hirosdecorationmod.laptop_closed": "Laptop Open (Aero design)",
       "block.hirosdecorationmod.crimson_dining_chair": "Crimson Dining Chair",
       "block.hirosdecorationmod.white_and_orange_vase": "White And Orange Vase"
     }

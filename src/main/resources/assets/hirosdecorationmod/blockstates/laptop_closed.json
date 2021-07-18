@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "hirosdecorationmod:block/laptop_closed"
+    },
+    "facing=east": {
+      "model": "hirosdecorationmod:block/laptop_closed",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "hirosdecorationmod:block/laptop_closed",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "hirosdecorationmod:block/laptop_closed",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "hirosdecorationmod:custom/tvstanding",
+  "textures": {
+    "all": "hirosdecorationmod:blocks/tvon",
+    "particle": "hirosdecorationmod:blocks/tvon",
+    "0": "hirosdecorationmod:blocks/tvon"
+  }
+}
