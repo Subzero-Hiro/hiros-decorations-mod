@@ -1,0 +1,11 @@
+{
+  "_fv": 18,
+  "_type": "tab",
+  "definition": {
+    "name": "Road Decorations",
+    "icon": {
+      "value": "CUSTOM:ConcreteBarrierLights"
+    },
+    "showSearch": true
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "hirosdecorationmod:custom/trafficpole",
+  "textures": {
+    "all": "hirosdecorationmod:blocks/trafficbarrierclean",
+    "particle": "hirosdecorationmod:blocks/trafficbarrierclean",
+    "0": "hirosdecorationmod:blocks/trafficbarrierclean"
+  }
+}

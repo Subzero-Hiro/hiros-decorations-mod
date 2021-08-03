@@ -556,6 +556,46 @@
         ]
       },
       "path": "~/Technology"
+    },
+    {
+      "name": "ConcreteBarrier",
+      "type": "block",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "concrete_barrier",
+      "path": "~/TrafficItems"
+    },
+    {
+      "name": "ConcreteBarrierLights",
+      "type": "block",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "concrete_barrier_lights",
+      "path": "~/TrafficItems"
+    },
+    {
+      "name": "RoadDecorations",
+      "type": "tab",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "road_decorations",
+      "path": "~/TrafficItems"
+    },
+    {
+      "name": "TrafficPole",
+      "type": "block",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "traffic_pole",
+      "path": "~/TrafficItems"
     }
   ],
   "variable_elements": [],
@@ -579,12 +619,15 @@
   ],
   "language_map": {
     "en_us": {
-      "block.hirosdecorationmod.dark_oak_dining_chair": "Dark Oak Dining Chair",
-      "block.hirosdecorationmod.birch_dining_chair": "Birch Dining Chair",
       "block.hirosdecorationmod.laptop_open_cpu": "Laptop Open (CPU design)",
+      "block.hirosdecorationmod.birch_dining_chair": "Birch Dining Chair",
+      "block.hirosdecorationmod.dark_oak_dining_chair": "Dark Oak Dining Chair",
       "block.hirosdecorationmod.laptop_open_aero_2": "Laptop Open (Aero 2.0 design)",
       "block.hirosdecorationmod.spruce_dining_chair": "Spruce Dining Chair",
+      "itemGroup.tabroad_decorations": "Road Decorations",
       "block.hirosdecorationmod.jungle_dining_chair": "Jungle Dining Chair",
+      "block.hirosdecorationmod.concrete_barrier_lights": "Concrete Barrier With Lights",
+      "block.hirosdecorationmod.concrete_barrier": "Concrete Barrier",
       "block.hirosdecorationmod.warped_coffee_table": "Warped Coffee Table",
       "itemGroup.tabtable_decorations": "Tables",
       "block.hirosdecorationmod.white_and_purpla_vase": "White And Purple Vase",
@@ -593,6 +636,7 @@
       "block.hirosdecorationmod.flatscreen_tv_aero": "Flatscreen TV (Aero design)",
       "itemGroup.tabwall_decorations": "Wall Deco",
       "block.hirosdecorationmod.laptop_open_aero": "Laptop Open (Aero design)",
+      "block.hirosdecorationmod.traffic_pole": "Traffic Pole",
       "block.hirosdecorationmod.flatscreen_tv_aero_2": "Flatscreen TV (Aero 2.0 Design)",
       "block.hirosdecorationmod.crimson_coffee_table": "Crimson Coffee Table",
       "block.hirosdecorationmod.flatscreen_tv_on": "Flatscreen TV (Aero design) - Turned On",
@@ -653,6 +697,10 @@
             "children": []
           }
         ]
+      },
+      {
+        "name": "TrafficItems",
+        "children": []
       }
     ]
   },

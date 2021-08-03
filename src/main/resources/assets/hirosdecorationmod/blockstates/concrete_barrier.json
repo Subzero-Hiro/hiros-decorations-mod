@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "hirosdecorationmod:block/concrete_barrier"
+    },
+    "facing=east": {
+      "model": "hirosdecorationmod:block/concrete_barrier",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "hirosdecorationmod:block/concrete_barrier",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "hirosdecorationmod:block/concrete_barrier",
+      "y": 270
+    }
+  }
+}
